@@ -5,5 +5,11 @@ Key Features:<br>
 1- Live Score Updates: Instantly access live scores of ongoing matches right at the top of the screen. Clicking on the live score opens up a comprehensive view of all ongoing matches.<br>
 2- Match History: Explore completed matches by clicking on the "All Matches" button, which fetches data from the backend and presents a detailed overview of finished matches.<br>
 3- Points Table: Stay updated with the latest standings in cricket tournaments with just a click. The "Points Table" button provides an up-to-date overview of the World Cup standings.<br>
-
+<br>
 ![Screenshot 2024-06-07 160846](https://github.com/lakshay8088/CrickInformer/assets/107973384/c187be72-c70d-4a7e-8621-a73485202d3e)
+<br>
+Technology Stack:<br>
+Frontend: Angular, HTML, CSS, TypeScript.<br>
+Backend: Spring Boot, Java, RESTful APIs.<br>
+Data Scraping: Web scraping techniques to extract real-time data from Cricbuzz.<br>
+Database: MySQL.<br>
