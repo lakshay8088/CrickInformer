@@ -6,7 +6,8 @@ Key Features:<br>
 2- Match History: Explore completed matches by clicking on the "All Matches" button, which fetches data from the backend and presents a detailed overview of finished matches.<br>
 3- Points Table: Stay updated with the latest standings in cricket tournaments with just a click. The "Points Table" button provides an up-to-date overview of the World Cup standings.<br>
 <br>
-![Screenshot 2024-06-07 160846](https://github.com/lakshay8088/CrickInformer/assets/107973384/7b92634c-6a30-4af9-bd64-909ad86b5a97)
+![Screenshot 2024-06-07 160846](https://github.com/lakshay8088/CrickInformer/assets/107973384/25490fa9-b483-4966-91ea-611815da5366)
+
 <br>
 <br>
 Technology Stack:<br>
@@ -21,6 +22,6 @@ Workflow:<br>
 3- For real-time data updates, the Data Scraping Backend continuously scrapes data from Cricbuzz, ensuring the latest cricket information is available.<br>
 4- The extracted data is stored in the database for retrieval by the frontend or backend components.<br>
 5- The frontend updates its interface based on the received data, providing users with a seamless and up-to-date cricket experience.<br>
-6- This architecture ensures separation of concerns, scalability, and reliability, allowing CrickInformer to efficiently deliver real-time cricket updates to its users.<br>
+This architecture ensures separation of concerns, scalability, and reliability, allowing CrickInformer to efficiently deliver real-time cricket updates to its users.<br>
 
 ![Screenshot 2024-06-07 162528](https://github.com/lakshay8088/CrickInformer/assets/107973384/e85b24e5-4a5c-41a5-b304-6d5a1cc51d94)
