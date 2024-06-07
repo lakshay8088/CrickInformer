@@ -7,13 +7,14 @@ Key Features:<br>
 3- Points Table: Stay updated with the latest standings in cricket tournaments with just a click. The "Points Table" button provides an up-to-date overview of the World Cup standings.<br>
 <br>
 ![Screenshot 2024-06-07 160846](https://github.com/lakshay8088/CrickInformer/assets/107973384/7b92634c-6a30-4af9-bd64-909ad86b5a97)
-
+<br>
 <br>
 Technology Stack:<br>
 Frontend: Angular, HTML, CSS, TypeScript.<br>
 Backend: Spring Boot, Java, RESTful APIs.<br>
 Data Scraping: Web scraping techniques to extract real-time data from Cricbuzz.<br>
 Database: MySQL.<br>
+<br>
 Workflow:<br>
 1- The frontend sends requests to the backend for various operations such as fetching live scores, retrieving match history, or obtaining the points table.<br>
 2- The Spring Boot backend processes these requests, executing CRUD operations, business logic etc.<br>
