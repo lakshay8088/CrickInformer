@@ -10,7 +10,7 @@ Key Features:<br>
 
 <br>
 <br>
-Technology Stack:<br>
+Technology Stack 🧑‍💻:<br>
 Frontend: Angular, HTML, CSS, TypeScript.<br>
 Backend: Spring Boot, Java, RESTful APIs.<br>
 Data Scraping: Web scraping techniques to extract real-time data from Cricbuzz.<br>
